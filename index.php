@@ -1,5 +1,5 @@
 <?php
 
-include_once("new.htlm")
+include_once("index.htlm")
 
 ?>
